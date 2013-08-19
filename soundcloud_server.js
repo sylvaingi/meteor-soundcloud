@@ -1,3 +1,5 @@
+Soundcloud = {};
+
 //see http://developers.soundcloud.com/docs/api/reference#me
 Soundcloud.whitelistedFields = ['id','username','permalink_url','avatar_url','country',
                       'full_name','city','description','website'];

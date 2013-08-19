@@ -6,7 +6,7 @@ SoundCloud for Meteor
 Add the soundcloud package with [Meteorite](https://github.com/oortcloud/meteorite/) using the following command:
 
 ``` sh
-$ mrt add router
+$ mrt add soundcloud
 ```
 
 ### API
